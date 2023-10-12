@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Creamcake';
+    src: url(fonts/creamcake.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Malgun';
+    src: url(fonts/malgun.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Futura-Title';
+    src: url(fonts/futuratitle.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Futura-Parrafo';
+    src: url(fonts/futuraparraf.ttf) format('truetype');
+}
+
+
+nav{
+   position: absolute;
+   background-color: black;
+   width:  1440px;
+   height: 80px;
+   margin: -10px;
+}
+
+#logo{
+    font-size: 34pt;
+    font-family: 'Creamcake';
+    color: white;
+    margin-top: 12px;
+    margin-left: 25px;
+}
+
+#a{
+    font-size: 15pt;
+    font-family: 'Malgun';
+    color: white;
+    margin-top: -70px;
+    margin-left: 1112px;
+}
+
+#h1{
+    position: absolute;
+    font-size: 50pt;
+    font-family: 'Futura-Title';
+    color: white;
+    margin-top: 670px;
+    margin-left: 17px;
+}
+
+#p{
+    position: absolute;
+    font-size: 21pt;
+    font-family: 'Futura-Parrafo';
+    color: white;
+    margin-left: 14px;
+    margin-top: 750px;
+}
+
